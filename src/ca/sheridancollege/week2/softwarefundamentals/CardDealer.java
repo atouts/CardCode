@@ -22,5 +22,6 @@ public class CardDealer
         nineClubs.setSuit("diamonds");
         Card newCards = new Card ("CardClass", 2);
         newCards.setSuit("Angles");
+        System.out.println(newCards);
     }
 }
